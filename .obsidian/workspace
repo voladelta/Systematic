@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "c62249e751499442",
+    "type": "split",
+    "children": [
+      {
+        "id": "3542fd2997ab4af3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Writing/Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ed30cc450b123f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "056ca52bea223c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "071575993c4a5468",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7db07bd19ea7b248",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "515dff8282e8e56c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c1c569617568c7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91073357ad38500b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Writing/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d256aa2941262f79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writing/Notes.md"
+              }
+            }
+          },
+          {
+            "id": "a8bcb4ea13066862",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3542fd2997ab4af3",
+  "lastOpenFiles": [
+    "Writing/Notes.md",
+    "Writing/Copywriting Formulas.md",
+    "Basket.md",
+    "Write.md",
+    "Ultralearner.md",
+    "Game Dev/Ideas.md",
+    "Game Dev/Analysis.md",
+    "Notes.md",
+    "Category creation.md",
+    "Animation.md"
+  ]
+}

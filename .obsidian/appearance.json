@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "translucency": true,
+  "baseFontSize": 18,
+  "cssTheme": "",
+  "accentColor": "#cd3a3e",
+  "textFontFamily": "Monaspace Argon",
+  "monospaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "SF Pro",
+  "enabledCssSnippets": [
+    "snippets"
+  ]
+}

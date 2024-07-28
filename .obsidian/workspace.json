@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "c62249e751499442",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa536f168d7660e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89bf3fd0b2c5e087",
+            "type": "leaf",
+            "state": {
+              "type": "ob-gallery",
+              "state": {}
+            }
+          },
+          {
+            "id": "01f11ccf3a3dc6e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs-to-be-Done.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb28c3551e8aeba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Circle Blueprint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ed30cc450b123f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "056ca52bea223c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "071575993c4a5468",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7db07bd19ea7b248",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89148e1a3c2b0d26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "515dff8282e8e56c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c1c569617568c7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91073357ad38500b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Social Circle Blueprint.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d256aa2941262f79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Social Circle Blueprint.md"
+              }
+            }
+          },
+          {
+            "id": "a8bcb4ea13066862",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8a86b11e41b8025",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 508.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-gallery:Gallery": false
+    }
+  },
+  "active": "cb28c3551e8aeba8",
+  "lastOpenFiles": [
+    "Jobs-to-be-Done.md",
+    "Social Circle Blueprint.md",
+    "Principles/Wired for Story.md",
+    "Principles/Mimetic.md",
+    "Principles/Human Desires.md",
+    "Mental Models/B=MAP.md",
+    "Mental Models/Flip The Script.md",
+    "Principles/1-Sentence Persuasion.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Principles/Humor.md",
+    "Principles/Alchemy.md",
+    "Principles/A Few Rules.md",
+    "Mental Models/Reframing.md",
+    "Write.md",
+    "Writing/Word Hero.md",
+    "Writing/The Art.md",
+    "Writing/Micro-fiction.md",
+    "Principles/MAYA.md",
+    "Principles/The Like Switch.md",
+    "Principles/Pareto.md",
+    "Principles/Misdirection.md",
+    "Principles/Communication.md",
+    "Principles/Biases.md",
+    "Ideas.md",
+    "Leadership.md",
+    "Visual Learning Environment.md",
+    "Ultralearner.md"
+  ]
+}
