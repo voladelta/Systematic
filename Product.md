@@ -1,10 +1,5 @@
 https://medium.com/@sariazout/from-product-market-fit-to-language-market-fit-a-new-brand-storytelling-framework-7e0a58b20295
 
-https://anujabrol.com/the-founders-guide-to-markets-345c8bc2991c
-
-
-https://reeve.blog/blog/principles/
-
 https://sparktoro.com/blog/product-market-fit-is-a-broken-concept-theres-a-better-way/
 
 Influencer as launching partner:
@@ -42,7 +37,7 @@ https://theflywheel.substack.com/p/the-flywheel-4-stitch-fixs-long-thread
 
 https://twitter.com/TheHustle/status/1320886865956921344?s=09
 
-https://sacks.substack.com/p/your-startup-is-a-movement?r=5eprj&utm_campaign=post&utm_medium=email&utm_source=twitter
+https://sacks.substack.com/p/your-startup-is-a-movement?r=5eprj
 
 Virtual try-on for apparel
 Avatar for online shopping

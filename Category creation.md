@@ -92,4 +92,4 @@ Create a game you can win – don’t play someone else’s. Summon the courage 
 
 Because it’s the people who are different, who make the biggest difference.
 
-https://qr.ae/pNObpk
+Source: https://qr.ae/pNObpk

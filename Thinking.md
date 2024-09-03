@@ -102,5 +102,3 @@ To begin you must study the end. You don’t want to be the first to act, you wa
 Diderot effect: obtaining a new possession often creates a spiral of consumption, leading you to acquire more. As a result, we end up buying things that our previous selves never needed.
 
 If you really care about starting a movement, have the courage to follow and show others how to follow. And when you find a lone nut doing something great, have the guts to be the first one to stand up and join in. 
-
-watch whales' crypto wallets

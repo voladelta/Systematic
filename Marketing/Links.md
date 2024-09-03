@@ -40,5 +40,4 @@ https://www.nickkolenda.com/copywriting-tips/
 
 https://seekthegreatness.com/11-questions-you-must-answer-before-you-write-your-sales-letter/
 
-https://www.younglingfeynman.com/essays/reframing
 

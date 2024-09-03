@@ -1,11 +1,11 @@
 # Wow
 
 1. Attention
-    - You 
+    - You - using second-person pronouns (you, your, you'll) in content enhances engagement, involvement, and brand attitudes
     - Novelty: being distinct boosts recall
     - Effort: Simply knowing the amount of hours of work to prepare significantly influenced the perceived value.
     - Concrete language significantly boosts memorability over abstract phrasing.
-    - ?: audiences felt more connected when ads posed questions
+    - Question?: audiences felt more connected when ads posed questions
     - Anchoring: Relatable anchors beat technical ingredients
     - Negations, such as "no", "don't", or "nobody", attract people's attention.
 2. Interest
@@ -19,7 +19,7 @@
     - Generation effect
     - "Buyer-isms" are the words and phrases your ideal buyers use in real life: they describe their fears, pains, goals, selfish desires, and objections-in their own word
     - Authority
-    - Because
+    - Because - using "because" prompts compliance, regardless of the reason given.
 3. Action
     - Earned/Reserved
     - Alliteration: Sleep softens sorrows

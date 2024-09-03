@@ -117,6 +117,6 @@ False resolution or exposition sequence. This leads to the twist! We’ve been s
 > E.g. The protagonist returns, but changed. For Bruce, the need to retire Batman was lost with Rachel. Now he must protect Gotham. The Joker has turned Harvey, making Batman’s final task that much more painful.
 
 8. “CHANGE”
-Ultimate resolution (what happens after this character has gone through these circumstances and made these decisions.
+Ultimate resolution what happens after this character has gone through these circumstances and made these decisions.
 
 > E.g. The change is put to the test. Batman defeats the Joker, but the matter of Two-Face remains. Batman breaks his one rule when he kills Two-Face. To preserve Harvey’s legacy, he takes the blame for Two-Face’s killing spree. He commits to protecting Gotham while being hunted and reviled. In doing so, he CHANGES into... The Dark Knight.

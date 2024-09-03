@@ -24,38 +24,7 @@ https://www.fastcompany.com/90549587/ikea-product-shots-have-been-fake-for-years
 https://www.insider.com/cgi-models-look-real-what-that-means-fashion-industry-2019-9
 
 
-tao gia tri cho moi nguoi
-noi dung vui ve - o hai vai
-noi dung kien thuc song - o tao khing biet do
-noi dung chia se kho khan - o may hieu tao ghe
-
 https://www.linkedin.com/pulse/future-ecommerce-personalized-conversation-thirdlove-co-founder-osa/
-
-Plan Checklist
-People
-Designer
-Fashion or Graphic
-KOLs
-
-Website + Fan page
-App
-Admin System
-
-partner
-store/brand
-
-Deploy with friend and small group to iterate
-
-Fund raising
-Go to market plan
-Team
-
-Observation
-Problem
-Solution
-Product
-Plan
-Team
 
 https://thepowermoves.com/principles-by-ray-dalio-summary/
 
@@ -66,9 +35,10 @@ https://www.harpersbazaar.com/fashion/designers/a1576/50-famous-fashion-quotes/
 
 tim sterotype/classical conditional/fallacies
 
+kendrick lamar writing rhythm
 da dum da dum
 short short long
-
+https://thevirginianormal.com/poetry-within-modern-hip-hop-music-with-kendrick-lamar/
 
 network connectors
 https://www.booklets.io/b/finding-clients-through-connectors-morejanda
