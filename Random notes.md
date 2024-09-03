@@ -2,15 +2,9 @@ https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31
 
 https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you
 
-https://www.behance.net/gallery/100153067/Closet-App
-https://dribbble.com/shots/4192679-Closet-App/attachments/958249
-https://dribbble.com/shots/4336792-Outfit-App-Animation
-
 https://twitter.com/AlexLlullTW/status/1296161106269016065
 
 snowflake: one sentence - one paragraph - one page
-
-
 
 game trailer
 
@@ -18,7 +12,6 @@ fake till you make it bill gate
 Microsoft’s march to a $1.54tr market value started with the company selling a product it had not, in fact, built. Bill Gates and Paul Allen contacted computer manufacturer MITS to sell them a BASIC interpreter. They scheduled a demo, and built their interpreter. Or rather, first they built an emulator for the Altair (which they didn’t have) to run on Harvard’s computers (which they didn’t have permission to use) in order to write their interpreter (which Allen finished on the flight to the meeting). Subsequent success turned that from a lie to an endearing exaggeration, although Microsoft’s later successes gave the story a sinister cast once again.
 
 competion is small
-
 
 https://www.fastcompany.com/90549587/ikea-product-shots-have-been-fake-for-years-now-its-taking-cgi-even-further
 https://www.insider.com/cgi-models-look-real-what-that-means-fashion-industry-2019-9
