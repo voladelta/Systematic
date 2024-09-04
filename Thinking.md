@@ -48,8 +48,6 @@ https://druriley.com/100-rules-2020/
 
 https://www.nateliason.com/notes/the-elephant-in-the-brain-by-robin-hanson-and-kevin-simler
 
-https://www.virtualhumans.org/
-
 core value: trung thuc, tin tuong, ro rang, dong cam, ho tro
 
 https://fs.blog/2016/02/joseph-tussman/
@@ -87,8 +85,6 @@ https://twitter.com/mrdoob/status/1311213052822466560
 Skill & Workflow
 decompose skill
 establish workflow
-
-https://howiwrotethis.substack.com/p/the-7-unfair-advantages-you-can-exploit
 
 > The Diderot Effect states that obtaining a new possession often creates a spiral of consumption which leads you to acquire more new things. As a result, we end up buying things that our previous selves never needed to feel happy or fulfilled.
 
